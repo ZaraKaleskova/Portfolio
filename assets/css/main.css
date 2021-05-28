@@ -1935,6 +1935,7 @@ input, select, textarea {
 		.main > .content {
 			width: 55em;
 			max-width: calc(100% - 4em);
+			padding-bottom: 6em;
 			margin: 0 auto;
 		}
 
@@ -2088,7 +2089,7 @@ input, select, textarea {
 		@media screen and (max-width: 1920px) {
 
 			.main.style2 .content {
-				width: 40%;
+				width: 50%;
 			}
 
 		}
