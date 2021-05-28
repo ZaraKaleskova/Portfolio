@@ -664,7 +664,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: #FFA931;
+		background-color: #DA8377;
 		border: 0;
 		border-radius: 3.5em;
 		color: #ffffff;
@@ -1178,7 +1178,7 @@ input, select, textarea {
 			line-height: 2em;
 			text-align: center;
 			border: 0;
-			color: #FFA931;
+			color: #DA8377;
 		}
 
 /* Sections/Article */
@@ -1835,10 +1835,9 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: #FECB89;
+		background: #FACEB3;
 		height: 3em;
-		line-height: 3em;
-		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
+		line-height: 3em;		
 	}
 
 		#header h1 {
@@ -2255,7 +2254,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("../../images/intro.png");
+		background: url("../../images/background.png");
 		background-size: cover;
 		background-attachment:fixed;
 		background-position: center center;
@@ -2265,7 +2264,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("../../images/one.png");
+		background: url("../../images/second.png");
 		background-size: cover;
 		background-attachment: fixed;
 		background-position:  center center;
@@ -2274,7 +2273,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background:  url("../../images/two.png");
+		background:  url("../../images/first.png");
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center center;
