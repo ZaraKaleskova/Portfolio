@@ -2038,7 +2038,7 @@ input, select, textarea {
 
 		.main.style3 {
 			text-align: center;
-			padding: 6em 0 6em 0;
+			padding: 6em 0 1em 0;
 		}
 
 			.main.style3 .content > header {
@@ -2264,7 +2264,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("../../images/second.png");
+		background: url("../../images/first.png");
 		background-size: cover;
 		background-attachment: fixed;
 		background-position:  center center;
