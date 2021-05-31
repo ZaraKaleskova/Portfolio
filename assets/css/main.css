@@ -2089,7 +2089,11 @@ input, select, textarea {
 		@media screen and (max-width: 1920px) {
 
 			.main.style2 .content {
-				width: 50%;
+				width: 100%;
+				max-width: 100%;
+				margin-left: 15em;
+				margin-right: 15em;
+				text-align: center;
 			}
 
 		}
